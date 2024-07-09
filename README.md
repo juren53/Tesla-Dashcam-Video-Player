@@ -2,6 +2,7 @@
 
 This code reads reads MP4 files from a Teslacam thumb drive. and plays the 
 collection of front views of the 60 second clips continuously
+[ side and rear views may be addedd at a furture date ]
 
 TVP is written in Python3 using the OpenCV libraries so it should run on any computer 
 that can read a thumbdrive and runs Python.
